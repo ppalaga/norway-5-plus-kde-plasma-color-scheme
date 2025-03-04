@@ -1,0 +1,14 @@
+= Norway 5+
+
+A color scheme for KDE Plasma 5+ adapted from the orignal
+https://invent.kde.org/plasma/kde-vdg-extras/-/blob/1166717c65eac05bb9ecf2dcae23ba21289fb213/deprecated/plasma-desktop/kcms/colors/schemes/Norway.colors[Norway] scheme.
+
+== How to install
+
+1. Download the color scheme definition
++
+```shell
+curl -o ~/.local/share/color-schemes/Norway5Plus.colors https://raw.githubusercontent.com/ppalaga/norway-5-plus-kde-plasma-color-scheme/refs/heads/main/Norway5Plus.colors
+```
+
+2. Select the `Norway 5+`  Color scheme in System Settings -> Appearance -> Colors
